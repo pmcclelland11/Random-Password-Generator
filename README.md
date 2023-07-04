@@ -59,8 +59,8 @@ N/A
 Source code modified by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Webpage Screenshot
-![Random Password Generator](./assets/images/webpage%20screenshot.png)
+![Random Password Generator - Webpage Screenshot](webpage%20screenshot.png)
 
 ## Link to Deployed Application
 To access the deployed application, please click the link below:
-[Deployed Application] (https://pmcclelland11.github.io/Random-Password-Generator/)
+https://pmcclelland11.github.io/Random-Password-Generator
