@@ -1,5 +1,5 @@
 # UC Berkeley Coding Bootcamp - Module 3 Challenge
-## Random-Password-Generator
+## Random Password Generator
 Simple application that can be used to randomly generate a password (between 8-127) with custom character criteria. For this assignment, we were provided with the HTML and CSS source code, as well as the beginning of a JavaScript file that will be used to generate a random password for the user. We were required to write a function named generatePassword() that can perform this task. This assignment tested my knowledge of basic JavaScript and interacting with HTML elements.
 
 ## Table of Contents 
