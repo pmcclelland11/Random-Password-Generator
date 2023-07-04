@@ -59,7 +59,7 @@ N/A
 Source code modified by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Webpage Screenshot
-![Random Password Generator - Webpage Screenshot](webpage%20screenshot.png)
+![Random Password Generator - Webpage Screenshot](./assets/images/webpage%20screenshot.png)
 
 ## Link to Deployed Application
 To access the deployed application, please click the link below:
